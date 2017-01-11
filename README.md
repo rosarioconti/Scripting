@@ -10,4 +10,4 @@ Scripting Folders
 
 - Shell
 
-<img src="http://www.italike.com/githubimgs/arduino.png">
+<img src="https://cdn2.iconfinder.com/data/icons/business-20/512/screen_computer_development_display_web-512.png">
